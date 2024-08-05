@@ -301,10 +301,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
-sidebar:
-  nav: "docs"
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
